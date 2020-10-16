@@ -1,0 +1,13 @@
+Full Heroku ClearDb String mysql://b2085daa3371f4:7d4c1136@us-cdbr-east-02.cleardb.com/heroku_6061c2ad42e5624?reconnect=true
+
+Hostname: us-cdbr-east-02.cleardb.com
+
+Username: b2085daa3371f4
+
+Password : 7d4c1136
+
+Schema: heroku_6061c2ad42e5624? 
+
+Port: 3306
+
+
